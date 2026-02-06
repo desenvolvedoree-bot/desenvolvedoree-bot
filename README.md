@@ -67,7 +67,7 @@ docs(bot): atualização automática de documentação
 
 Para assuntos relacionados a esta conta:
 
-📩 **supprte@desenvolvedoree.qzz.io**
+📩 **suporte@desenvolvedoree.qzz.io**
 
 > Observação: este email é destinado apenas a notificações técnicas.  
 > Não há atendimento humano por esta conta BOT.
