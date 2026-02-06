@@ -31,7 +31,7 @@ As a result, most traditional vulnerability reports **do not apply**.
 
 If you believe you have found a **security issue directly related to the automation performed by this account**, you may report it via:
 
-📩 **bot@desenvolvedoree.qzz.io**
+📩 **suporte@desenvolvedoree.qzz.io**
 
 Please include:
 - A clear description of the issue
