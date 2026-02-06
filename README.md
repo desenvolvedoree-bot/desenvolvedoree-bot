@@ -56,7 +56,9 @@ Quando esta conta realiza commits, o padrão recomendado é:
 
 
 chore(bot): descrição da alteração
+
 ci(bot): ajuste em pipeline
+
 docs(bot): atualização automática de documentação
 
 ---
@@ -65,7 +67,7 @@ docs(bot): atualização automática de documentação
 
 Para assuntos relacionados a esta conta:
 
-📩 **bot@desenvolvedoree.qzz.io**
+📩 **supprte@desenvolvedoree.qzz.io**
 
 > Observação: este email é destinado apenas a notificações técnicas.  
 > Não há atendimento humano por esta conta BOT.
